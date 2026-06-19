@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
