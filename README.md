@@ -10,18 +10,21 @@
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +70,20 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
