@@ -44,6 +44,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0151-reverse-words-in-a-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
