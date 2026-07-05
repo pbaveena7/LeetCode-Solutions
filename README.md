@@ -30,6 +30,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
