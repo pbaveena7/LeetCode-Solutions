@@ -79,6 +79,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
