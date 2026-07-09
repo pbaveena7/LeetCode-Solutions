@@ -10,6 +10,7 @@
 | [0045-jump-game-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0135-candy](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
