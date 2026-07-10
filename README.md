@@ -64,6 +64,7 @@
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
