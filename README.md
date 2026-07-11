@@ -59,6 +59,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -68,6 +69,7 @@
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
