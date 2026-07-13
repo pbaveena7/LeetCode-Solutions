@@ -179,4 +179,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
