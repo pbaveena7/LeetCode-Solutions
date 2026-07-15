@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
