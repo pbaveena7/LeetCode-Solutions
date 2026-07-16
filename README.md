@@ -63,6 +63,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -74,6 +75,7 @@
 | [0014-longest-common-prefix](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0076-minimum-window-substring](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Two Pointers
 |  |
 | ------- |
