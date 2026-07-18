@@ -9,13 +9,11 @@ public:
             else if(nums[i]<smallest)
             smallest=nums[i];
         }
-        int gcd=1;
-        for(int i=1;i<=smallest;i++){
-            if(largest%i==0 && smallest%i==0)
-            {
-                gcd=i;
-            }
-        }
-        return gcd;
+    while(smallest!=0){
+        int temp=largest%smallest;
+        largest=smallest;
+        smallest=temp;
+    }
+        return largest;
     }
 };
