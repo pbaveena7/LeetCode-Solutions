@@ -60,6 +60,7 @@
 | [0135-candy](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
@@ -96,6 +97,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -118,10 +120,12 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
