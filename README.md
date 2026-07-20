@@ -18,6 +18,7 @@
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1207-unique-number-of-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
 |  |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
+| [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
