@@ -25,6 +25,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
