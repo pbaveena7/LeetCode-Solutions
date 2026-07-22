@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1207-unique-number-of-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
