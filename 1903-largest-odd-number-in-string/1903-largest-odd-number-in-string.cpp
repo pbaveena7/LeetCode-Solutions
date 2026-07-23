@@ -2,7 +2,8 @@ class Solution {
 public:
     string largestOddNumber(string num) {
       int largest=-1;
-      for(int i=0;i<num.size();i++){
+      int n=num.size();
+      for(int i=0;i<n;i++){
         if((num[i]-'0')%2==1){
             largest=i;
         }
