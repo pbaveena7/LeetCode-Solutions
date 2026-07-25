@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
@@ -202,6 +204,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
