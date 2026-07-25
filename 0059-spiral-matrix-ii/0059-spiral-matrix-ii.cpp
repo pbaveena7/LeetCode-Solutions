@@ -5,7 +5,6 @@ public:
         int top = 0, down = n - 1;
         int left = 0, right = n - 1;
         int currElement = 1;
-
         while (currElement <= n * n) {
             
             for (int c = left; c <= right; c++)
