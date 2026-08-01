@@ -13,6 +13,7 @@
 | [0057-insert-interval](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -250,6 +251,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -283,6 +285,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
 | ------- |
