@@ -30,6 +30,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -92,6 +93,7 @@
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -110,6 +112,7 @@
 | [0904-fruit-into-baskets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -150,6 +153,7 @@
 | [0904-fruit-into-baskets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,6 +187,7 @@
 | [0486-predict-the-winner](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
