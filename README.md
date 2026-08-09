@@ -28,6 +28,7 @@
 | [0877-stone-game](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -118,6 +119,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +163,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
