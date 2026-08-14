@@ -43,6 +43,7 @@
 | [1732-find-the-highest-altitude](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -153,6 +154,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -409,4 +411,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
