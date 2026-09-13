@@ -25,6 +25,7 @@
 | [0485-max-consecutive-ones](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -294,6 +295,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
