@@ -19,6 +19,7 @@
 | [0189-rotate-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -62,6 +63,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -126,6 +128,7 @@
 | [0076-minimum-window-substring](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -219,6 +222,7 @@
 | [0070-climbing-stairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -306,6 +310,7 @@
 | [0056-merge-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -331,6 +336,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
