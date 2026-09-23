@@ -241,6 +241,7 @@
 | [1140-stone-game-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
@@ -352,6 +353,7 @@
 | [0137-single-number-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
