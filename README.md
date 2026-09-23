@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0135-candy) |
@@ -344,6 +345,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -387,6 +389,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
