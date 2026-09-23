@@ -243,6 +243,7 @@
 | [1406-stone-game-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -400,6 +401,7 @@
 | [0060-permutation-sequence](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
