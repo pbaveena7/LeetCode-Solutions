@@ -188,6 +188,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -367,6 +368,7 @@
 | [0260-single-number-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -411,6 +413,7 @@
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
