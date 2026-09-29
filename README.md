@@ -63,6 +63,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -85,6 +86,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -232,6 +234,7 @@
 | [0189-rotate-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -361,6 +364,7 @@
 | [1288-remove-covered-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
