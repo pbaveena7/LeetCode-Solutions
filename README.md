@@ -190,6 +190,7 @@
 | [0022-generate-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0079-word-search) |
