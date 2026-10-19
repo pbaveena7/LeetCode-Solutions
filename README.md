@@ -85,6 +85,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | [0059-spiral-matrix-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Graph Theory
 |  |
 | ------- |
@@ -345,6 +348,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Shortest Path
 |  |
 | ------- |
@@ -405,6 +409,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Trie
 |  |
 | ------- |
@@ -443,6 +448,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -551,6 +557,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bracket Sequences
 |  |
 | ------- |
