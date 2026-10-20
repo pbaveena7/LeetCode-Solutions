@@ -85,6 +85,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
@@ -321,6 +322,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Trie
 |  |
@@ -457,6 +460,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
