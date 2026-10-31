@@ -146,6 +146,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1405-longest-happy-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -231,6 +232,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1405-longest-happy-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -364,6 +366,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1405-longest-happy-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
 | [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
