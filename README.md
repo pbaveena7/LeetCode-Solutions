@@ -79,6 +79,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -139,6 +140,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -209,6 +211,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -272,6 +275,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -336,6 +340,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -377,6 +382,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1405-longest-happy-string](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/1405-longest-happy-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/pbaveena7/LeetCode-Solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
